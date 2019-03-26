@@ -9,6 +9,18 @@ public class Book {
         this.author = author;
     }
 
+     public String getTitle(){
+        return this.title;
+     }
+
+     public String getGenre(){
+        return this.genre;
+     }
+
+     public String getAuthor(){
+        return this.author;
+     }
+
 
 
 }
